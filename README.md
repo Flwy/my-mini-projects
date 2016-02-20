@@ -1,8 +1,8 @@
-# my-mini-projects
+#my-mini-projects
 Any of my mini side projects will go in here.
 
 ********************************************************************************************************************
-#1 fileUploadphp description:
+#fileUploadphp description:
 
     This is my code for uploading a single file in php.  I am currently working on 
     uploading using more than one input forms.  I have attempted to do more than one
